@@ -1,16 +1,38 @@
-## Hi there 👋
+# TarsDog AI
 
-<!--
-**tarsdog/tarsdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TarsDog AI — 让 AI 真正理解代码。
 
-Here are some ideas to get you started:
+TarsDog 是一个轻量、智能、面向 Agent 的下一代 AI 编程系统，专为开发者、AI 创造者和安全研究者设计。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 核心特点
+
+- **Agent-native 架构**：支持自动化推理与执行，让 AI 不只是“聊天”，而是可以真正替你工作。
+- **智能上下文选择**：Runtime 级别的智能上下文工程，只把真正相关的代码送给模型，避免把整仓塞进 Prompt。
+- **轻量高效**：支持本地部署，无需依赖超大模型也能处理复杂项目。
+- **安全可控**：数据留在你的机器，数据不出域，满足企业与安全研究需求。
+- **灵活可扩展**：提供插件与 API，用于 Agent 自动化、自定义工作流和更多场景。
+
+## 适用对象
+
+- 开发者：提升编程效率，构建智能代码助手。
+- AI 创造者：打造面向 Agent 的自动化系统和应用。
+- 安全研究者：用于安全漏洞挖掘、代码审计与安全测试。
+
+## 为什么选择 TarsDog
+
+- 不是“把整仓塞进 Prompt”，而是通过智能理解与上下文选择，让 AI 真正理解代码。
+- 本地部署也能飞，数据不出域，保障敏感信息安全。
+- 适配多种系统和开发环境，支持快速安装与即时使用。
+
+## 典型场景
+
+- AI 助手与代码审查
+- 自动化漏洞分析与安全检测
+- 自定义 Agent 工作流
+- 本地 AI 编程/runtime 平台
+
+## 了解更多
+
+访问官网：<https://tarsdog.com/>
+
+> 本文档基于 `https://tarsdog.com/#` 网站展示内容编写。
